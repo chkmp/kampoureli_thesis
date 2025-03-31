@@ -68,7 +68,7 @@ Script to create the json files for `training.py` and `feedback.py`.
 - **training_beh.py**  
 Script for stimulus presentation during training runs (for outside the scanner).
 
-- **training_beh.py**  
+- **training.py**  
 Script for stimulus presentation during training runs (for inside  the scanner).
 
 - **esqs.py**  
